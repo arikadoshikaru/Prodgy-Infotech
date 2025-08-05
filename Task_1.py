@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Updated URL for a reliable Titanic dataset
+
 url = "https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv"
 df = pd.read_csv(url)
 
@@ -23,4 +23,5 @@ axes[1].set_ylabel('Frequency')
 
 # Adjust layout to prevent titles and labels from overlapping
 plt.tight_layout()
+
 plt.show()
