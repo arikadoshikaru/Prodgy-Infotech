@@ -1,2 +1,5 @@
-# Prodgy-Infotech
-Welcome to my Prodgy Infotech Internship Repository! This repo includes all tasks and projects completed during my Data Science internship at Prodgy Infotech. It reflects my learning journey, practical work with real-world datasets, and application of core data science skills like EDA, visualization, and machine learning.
+# Prodigy-InfoTech
+
+Welcome to my Prodgy Infotech Internship Repository!
+This repository contains all the tasks and projects I have completed during my internship at Prodgy Infotech, where I joined as a Data Science Intern. It showcases my progress, learning curve, and hands-on application of key data science concepts such as data cleaning, exploratory data analysis (EDA), visualization, and machine learning. Each project reflects my commitment to mastering real-world datasets and presenting insights in a clear, professional manner.
+
